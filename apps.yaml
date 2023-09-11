@@ -1,0 +1,20 @@
+---
+zebra:
+  module: zebraControl
+  class: zebraControl
+  entities:
+    - input_text.cups_server
+    - input_number.cups_port
+    - input_select.cups_printer
+    - input_datetime.ystningsdatum
+    - input_datetime.packing_date
+    - input_datetime.picking_date
+    - input_datetime.selling_date
+    - input_number.cheese_weight
+    - input_button.create_label
+    - input_text.status
+    - input_text.permalink
+
+
+
+
