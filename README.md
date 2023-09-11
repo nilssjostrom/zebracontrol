@@ -10,7 +10,7 @@ Appdaemon app for Home Assistant  that connects to a CUPS Zebra ZPL2 label print
 5. Create a dashboard for your stuff
 6. Print for your life
 
-![Dashboard](zebra_cups.jpg)
+![Dashboard](zebra_cups.png)
 
 ![Label](P_20230911_202151_1.jpg)
 
