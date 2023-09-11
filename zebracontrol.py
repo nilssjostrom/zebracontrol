@@ -4,7 +4,6 @@
 import appdaemon.plugins.hass.hassapi as hass
 import datetime
 import cups
-from zebra import Zebra
 from PIL import Image
 import zpl
 
